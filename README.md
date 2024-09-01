@@ -1,7 +1,8 @@
 # Surfboard Data Recorder by: Moamena Hijazi, Omima Hijazi and Mostafa Hammam.
 
 Hi and welcome to our project "Surfboard Data Recorder".
-- This project is part of the ICST Lab at the Technion Institute of Technology, Our surfboard data recorder captures acceleration, gyroscope and force data via sensors, providing real-time insights into athlete movements and maneuvers. Elevate training and performance analysis with precision data collection.
+- This project is part of the ICST Lab at the Technion Institute of Technology, In collaboration with BioMotion Lab - Technion Biomedical Eng.
+- Our surfboard data recorder captures acceleration, gyroscope and force data via sensors, providing real-time insights into athlete movements and maneuvers. Elevate training and performance analysis with precision data collection.
 
 # Folder description:
 - ESP32_accelerationSensor: source code for the esp. 
