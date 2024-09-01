@@ -9,9 +9,9 @@ Hi and welcome to our project "Surfboard Data Recorder".
 - User_interface. 
 
 # Arduino/ESP32 libraries used in this project:
-- HX711 by Rob Tillaart - version 0.5.0
-- SD by Arduino - version 1.3.0
-- DFRobot_BMI160 by DFRobot - version 1.0.0
+- HX711 - version 0.5.0
+- SD - version 1.3.0
+- DFRobot_BMI160 - version 1.0.0
 - Adafruit Unified Sensor - version 1.1.14
 - ArduinoQueue - version 1.2.5
 - RTC - version 1.8.0
