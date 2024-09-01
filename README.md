@@ -40,3 +40,10 @@ Hi and welcome to our project "Surfboard Data Recorder".
 
 That's All! Enjoy riding those waves and GOODLUCK!
 The surfboard Data recorder Group.
+
+# 
+
+![תמונה של WhatsApp‏ 2024-08-25 בשעה 02 42 58_7e8094c3](https://github.com/user-attachments/assets/ceefeaf6-d52c-4968-ad4d-840f3396afd3)
+
+![תמונה של WhatsApp‏ 2024-08-25 בשעה 02 42 58_358e90ca](https://github.com/user-attachments/assets/9d1c2bbe-bb86-49fe-b9b7-62107f0556d8)
+
