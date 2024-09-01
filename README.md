@@ -8,7 +8,7 @@ Hi and welcome to our project "Surfboard Data Recorder".
 - ESP32_accelerationSensor: source code for the esp. 
 - ESP32_forceSensor: source code for the esp.
 - Unit Tests: tests for individual hardware components.
-- User_interface.
+- User_interface: Python Program. 
 
 # Arduino/ESP32 libraries used in this project:
 - HX711 - version 0.5.0
