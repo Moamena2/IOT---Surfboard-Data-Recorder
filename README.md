@@ -4,10 +4,11 @@ Hi and welcome to our project "Surfboard Data Recorder".
 - This project is part of the ICST Lab at the Technion Institute of Technology, In collaboration with BioMotion Lab - Technion Biomedical Eng.
 - Our surfboard data recorder captures acceleration, gyroscope and force data via sensors, providing real-time insights into athlete movements and maneuvers. Elevate training and performance analysis with precision data collection.
 
-# Folder description:
+# Folder Description:
 - ESP32_accelerationSensor: source code for the esp. 
 - ESP32_forceSensor: source code for the esp.
-- User_interface. 
+- Unit Tests: tests for individual hardware components.
+- User_interface.
 
 # Arduino/ESP32 libraries used in this project:
 - HX711 - version 0.5.0
@@ -30,7 +31,7 @@ Hi and welcome to our project "Surfboard Data Recorder".
 
 ![iot_SurfBoard diagram_bb](https://github.com/user-attachments/assets/8e3639b6-3017-4b42-83bf-ef7ab1cd16a8)
 
-# Project poster: 
+# Project Poster: 
 ![13 Surfboard data recorder IOT_page-0001](https://github.com/user-attachments/assets/b1430919-c4b2-4e2b-9617-c4fe7bcb412b)
 
 
